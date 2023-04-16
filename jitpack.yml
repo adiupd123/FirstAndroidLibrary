@@ -1,0 +1,4 @@
+jdk:
+  - java home
+before_install:
+  - ./scripts/prepareJitpackEnvironment.sh
